@@ -1,0 +1,11 @@
+{
+    "templateID" : "001-template",
+    "from" : "from@openshift.com",
+    "to" : "jserrade@redhat.com",
+    "language" : "GB",
+    "templateVars" :
+    {
+        "clientName" : "Joao Moura",
+        "company": "Red hat"    }
+
+}
